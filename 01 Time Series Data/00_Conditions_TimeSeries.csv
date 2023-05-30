@@ -1,0 +1,13 @@
+Run,Sediment,Salinity [ppt],SSC [mg/l],G [s^-1],T [days],dp [micron]
+1,80% kaolinite and 20% montmorillonite by mass,8.5,25,40,6,12.5
+2,80% kaolinite and 20% montmorillonite by mass,8.5,25,40,0.25,12.5
+3,80% kaolinite and 20% montmorillonite by mass,8.5,25,40,0.25,12.5
+4,80% kaolinite and 20% montmorillonite by mass,8.5,25,40,12,12.5
+5,80% kaolinite and 20% montmorillonite by mass,8.5,100,40,0.25,12.5
+6,80% kaolinite and 20% montmorillonite by mass,8.5,400,40,6,12.5
+7,80% kaolinite and 20% montmorillonite by mass,8.5,400,40,0.25,12.5
+8,80% kaolinite and 20% montmorillonite by mass,8.5,400,40,0.25,12.5
+9,80% kaolinite and 20% montmorillonite by mass,8.5,400,40,12,12.5
+10,80% kaolinite and 20% montmorillonite by mass,8.5,10000,40,6,12.5
+11,80% kaolinite and 20% montmorillonite by mass,8.5,10000,40,0.25,12.5
+12,80% kaolinite and 20% montmorillonite by mass,8.5,10000,40,12,12.5
