@@ -3,6 +3,10 @@ All data in this repository is associated with the following paper:
 
 Data from the paper: Tran, D. and Strom, K. (2019). Floc sizes and resuspension rates from fresh deposits: Influences of suspended sediment concentration, turbulence, and deposition time. *Estuarine, Coastal and Shelf Science*, 229:106397. DOI:[10.1016/j.ecss.2019.106397](https://doi.org/10.1016/j.ecss.2019.106397)
 
+Dataset DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7987627.svg)](https://doi.org/10.5281/zenodo.7987627)
+
+Cite dataset as: Tran, D. and Strom, K. (2023). FlocData/Data-Tran-Strom-2019: Dataset (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7987627
+
 __Study type__
 - Location: laboratory
 - Sediment type: kaolinite and chemically treated montmorillonite
